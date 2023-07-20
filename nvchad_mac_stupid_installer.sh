@@ -1,11 +1,8 @@
 #!/bin/bash
 # This is a script to install NVchad on a fresh MACos system
 
-/bin/bash -c "(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 echo "Homebrew is installed."
-
-brew install git
-echo "Git is installed."
 
 brew install gcc
 echo "GCC is installed."
