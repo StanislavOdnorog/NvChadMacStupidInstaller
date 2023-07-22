@@ -8,7 +8,7 @@ I will be happy if someone add something since it's my first commit on GitHub :3
 ---
 
 ```mermaid
-Z[Installation process]
+node[Installation process]
 graph TD;
     A[Script Launch]-->T[Git Installation];
     T-->B[Homebrew Installation];
