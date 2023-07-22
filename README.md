@@ -9,7 +9,7 @@ I will be happy if someone add something since it's my first commit on GitHub :3
 
 ```mermaid
 graph TD;
-    A[Installation Process] -- T[Git Installation];
+    A[Installation Process] --> T[Git Installation];
     T --> B[Homebrew Installation];
     B --> C[GCC Installation];
     C --> D[NVim Configs Cleanup];
