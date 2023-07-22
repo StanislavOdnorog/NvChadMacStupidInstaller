@@ -1,0 +1,26 @@
+dff8ce2 add correct graph to README.md
+ba71c5d Update README.md
+9be3b2c Update README.md
+f70e632 Update README.md
+6367ca0 Update README.md
+78c29b1 Update README.md
+cf004a0 Update README.md
+5c01dab Update README.md
+bd79fc4 Update README.md
+765a1e3 Update README.md
+f124802 Update README.md
+6e84345 Update README.md
+315ee7b Update README.md
+0ec9a97 add diagram about the installation process
+67b808e add git installation | move source command to the end
+d0f57b0 change installation brew link from  master to HEAD
+cc7fa22 Update README.md
+d84957f Update README.md
+76d54d8 Update README.md
+03a0e88 Update README.md
+e43cdc4 Just changing README
+ffdab47 Added my frist README.md
+d597fc6 Changed Homebrew mirroring adress, removed git installation :D
+0644d21 Actually created script
+3a65177 Changed comments about nvim directories cleaning and renamed file
+639052c My very first commit :3
