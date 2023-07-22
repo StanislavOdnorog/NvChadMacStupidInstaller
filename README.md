@@ -16,7 +16,7 @@ graph TD;
     E-->F[Make Installation];
     F-->G[NPM Installtion];
     G-->H[Node Installation];
-    H-->I[Rust (+cargo) Installation];
+    H-->I[Rust Installation];
     I-->J[JetbrainsMono Nerd Font Installation];
     J-->K[Iterm Installation];
     K-->L[NVchad Installation];
