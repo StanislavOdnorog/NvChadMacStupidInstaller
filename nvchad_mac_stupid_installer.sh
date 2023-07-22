@@ -4,6 +4,9 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 echo "Homebrew is installed."
 
+brew install git
+echo "Git is installed."
+
 brew install gcc
 echo "GCC is installed."
 
@@ -19,7 +22,6 @@ tar xzf nvim-macos.tar.gz -C ~/
 rm nvim-macos.tar.gz
 echo "alias nvim='~/nvim-macos/bin/nvim'" >> ~/.bash_profile
 echo "alias vim='nvim'" >> ~/.bash_profile
-source ~/.bash_profile
 echo "Nvim 9.0 is installed."
 
 brew install make 
@@ -45,6 +47,7 @@ echo "Iterm is installed."
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
 echo "NVchad is installed."
 
+source ~/.bash_profile
 nvim
 echo "Installation is over."
 
