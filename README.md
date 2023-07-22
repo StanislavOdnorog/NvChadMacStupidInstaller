@@ -27,7 +27,7 @@ graph TD;
 
 ```mermaid
 graph TD;
-    A-->B;
+    A[Installation Process]-->B;
     A-->C;
     B-->D;
     C-->D;
