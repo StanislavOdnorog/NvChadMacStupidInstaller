@@ -9,7 +9,8 @@ I will be happy if someone add something since it's my first commit on GitHub :3
 
 ```mermaid
 graph TD;
-    A[Installation Process]-->B[Homebrew Installation];
+    A[Installation Process]-->T[Git Installation];
+    T-->B[Homebrew Installation];
     B-->C[GCC Installation];
     C-->D[NVim Configs Cleanup];
     D-->E[Nvim Installation];
@@ -23,12 +24,3 @@ graph TD;
     L-->M[NvChad Launch];
     M-->N[Other Dependencies Auto Installation];
 ```
-
-
-```mermaid
-graph TD;
-    A[Installation Process]-->B[GCC Installation];
-    B-->C[GCC Installation];
-    C-->D;
-```
-
