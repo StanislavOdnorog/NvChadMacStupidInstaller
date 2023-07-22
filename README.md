@@ -27,7 +27,7 @@ graph TD;
 
 ```mermaid
 graph TD;
-    A[Installation Process]-->B;
+    A[Installation Process]-->B[GCC Installation];
     B-->C[GCC Installation];
     C-->D;
 ```
